@@ -1,0 +1,45 @@
+*{
+    color: black;
+    background-color: antiquewhite;
+}
+
+
+
+.regform{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 35rem;
+    width: 40rem;
+    margin-top: 3rem;
+    margin-left: 30rem;
+    background-color: lightcyan;
+}
+
+label{
+    font-size: 30px;
+    font-weight: 700;
+    margin-right: 30px;
+}
+
+input{
+    height: 30px;
+    width: 15rem;
+}
+select{
+    font-size: 20px;
+    font-weight: 400;
+}
+button{
+    font-size: 20px;
+    font-weight: 400;
+    background-color: cadetblue;
+color: blue;
+margin: 10px;
+}
+
+
+
